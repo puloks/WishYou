@@ -788,8 +788,8 @@ span.sete {
 /* Large devices (desktops, 992px and up) */
 @media (max-width: 992px) { 
  .fogos>div.f10 {
-    left: 27% !important;
-    top: 55% !important;
+    left: 22% !important;
+    top: 52% !important;
     font-size: 10px;
 }
 .ano_novo {
